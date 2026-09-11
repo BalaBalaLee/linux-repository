@@ -10,7 +10,7 @@ Linux debian repositor
 
 [au-sl.searchlinuxworld.store](https://au-sl.searchlinuxworld.store)
 
-[at-sl.searchlinuxworld.store)(https://at-sl.searchlinuxworld.store)
+[at-sl.searchlinuxworld.store](https://at-sl.searchlinuxworld.store)
 
 [by-sl.searchlinuxworld.store](https://by-sl.searchlinuxworld.store)
 
