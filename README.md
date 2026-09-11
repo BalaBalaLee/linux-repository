@@ -21,3 +21,10 @@ Linux debian repositor
 [cn-sl.searchlinuxworld.store](https://cn-sl.searchlinuxworld.store)
 
 [cl-sl.searchlinuxworld.store](https://cl-sl.searchlinuxworld.store)
+
+[cz-sl.searchlinuxworld.store](https://cz-sl.searchlinuxworld.store)
+
+[dk-sl.searchlinuxworld.store](https://dk-sl.searchlinuxworld.store)
+
+[ee-sl.searchlinuxworld.store](https://ee-sl.searchlinuxworld.store)
+
