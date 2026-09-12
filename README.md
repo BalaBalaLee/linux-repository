@@ -28,3 +28,5 @@ Linux debian repositor
 
 [ee-sl.searchlinuxworld.store](https://ee-sl.searchlinuxworld.store)
 
+[au-sl.ivu1314.store](https://au-sl.ivu1314.store)
+
