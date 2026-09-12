@@ -30,3 +30,7 @@ Linux debian repositor
 
 [au-sl.ivu1314.store](https://au-sl.ivu1314.store)
 
+[cl-sl.ivu1314.store](https://cl-sl.ivu1314.store)
+
+[bg-sl.ivu1314.store](https://bg-sl.ivu1314.store)
+
