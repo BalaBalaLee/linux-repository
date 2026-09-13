@@ -36,3 +36,7 @@ Linux debian repositor
 
 [cz-sl.ivu1314.store](https://cz-sl.ivu1314.store)
 
+[ee-sl.ivu1314.store](https://ee-sl.ivu1314.store)
+
+[dk-sl.ivu1314.store](https://dk-sl.ivu1314.store)
+
