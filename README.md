@@ -40,3 +40,11 @@ Linux debian repositor
 
 [dk-sl.ivu1314.store](https://dk-sl.ivu1314.store)
 
+[ee-sl.ivu1314.store](https://ee-sl.ivu1314.store)
+
+[kr-sl.ivu1314.store](https://kr-sl.ivu1314.store)
+
+[ca-sl.ivu1314.store](https://ca-sl.ivu1314.store)
+
+
+
